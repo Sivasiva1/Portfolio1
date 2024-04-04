@@ -367,10 +367,10 @@ body {
 
 
 .progress-line.c span {
-    width: 45%;
+    width: 60%;
 }
 .progress-line.js span {
-    width: 45%;
+    width: 60%;
 }
 
 
@@ -395,10 +395,10 @@ body {
     content: "80%";
 }
 .progress-line.c span::after{
-    content: "70%";
+    content: "80%";
 }
 .progress-line.js span::after{
-    content: "70%";
+    content: "80%";
 }
 
 
